@@ -27,6 +27,3 @@ for k, v in crossPlatfromFrameworks.items():
         sys.exit(1)
 print("This app doesn't use any of the specifed cross platform frameworks")
 cleanup()
-
-
-
