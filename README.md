@@ -1,5 +1,5 @@
 # hybrid-apps-identifier
-A python script to identify if an app uses and of these cross platform framworks:   
+A python script to identify if an app uses any of these cross platform framworks:   
 - Apache Cordova
 - Appcelerator Titanium
 - Adobe Air
